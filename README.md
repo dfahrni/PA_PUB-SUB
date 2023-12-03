@@ -1,6 +1,6 @@
 # Projektarbeit Agon und Daniel
 
-![Alternativer Text](/images/teko-logo-web.png)
+![teko-logo-web.png](Images%2Fteko-logo-web.png)
 
 ## Inhaltsverzeichnis
 - [Aufgabenstellung](/PA_Agon_Daniel/Aufgabenstellung.md)
