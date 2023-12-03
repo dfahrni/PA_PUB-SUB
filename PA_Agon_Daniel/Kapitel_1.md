@@ -2,6 +2,32 @@
 
 # Analyse und Beschreibung des Problems: Publish-Subscribe-System für REPS
 
+```mermaid
+graph TD
+    A[Start: REPS Projekt] --> B{Typ des Pub-Sub-Systems}
+    B -->|Inhaltsbasiert| C[Benutzerdefinierte Benachrichtigungen]
+    B -->|Themen- oder Kanalbasiert| D[Einfache Benachrichtigungen]
+    
+    C --> E[Skalierbarkeits-Herausforderungen]
+    D --> E
+    E -->|Wachsende Benutzerbasis und Angebote| F[Erhöhte Systemlast]
+    E -->|Nachrichtendurchsatz| G[Effiziente Verarbeitung vieler Nachrichten]
+    
+    F --> H[Entwicklung einer Skalierungsstrategie]
+    G --> H
+    H --> I[Implementierung und Tests]
+
+    I --> J{Anonymität und Cloud-Nutzung}
+    J -->|Datensicherheit| K[Schutz von Benutzerdaten]
+    J -->|Vertrauenswürdigkeit von Cloud-Diensten| L[Verwendung sicherer Cloud-Dienste]
+
+    K --> M[Anpassungen in der Systemarchitektur]
+    L --> M
+
+    M --> N[Ende: Fertiges System für REPS]
+```
+
+
 ## 1. Typ des Publish-Subscribe-Systems
 - **Inhaltsbasiert:** 
   - Das System ist inhaltsbasiert, was bedeutet, dass Kunden basierend auf spezifischen Suchkriterien Benachrichtigungen erhalten.
