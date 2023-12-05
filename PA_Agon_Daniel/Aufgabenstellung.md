@@ -1,19 +1,16 @@
 # Bewertete Übung «Parallele und verteilte Systeme»
 [<img src="https://cdn-icons-png.flaticon.com/512/93/93634.png" width="50"/>](../README.md)
-## Aufgabenstellung
 
 <details open>
-  <summary>Click me</summary>
+  <summary style="font-size: 24px; font-weight: bold;">Aufgabenstellung</summary>
 
 In Zweier- oder Dreiergruppen erarbeiten die Studierenden einen Aufsatz und eine Präsentation zu einem von mehreren gegebenen Themen.
 Ziel ist es, ein verteiltes System zu analysieren, Vor- und Nachteile zu evaluieren und die im Unterricht behandelten Themen anzuwenden.
 
 </details>
 
-## Aufsatz
-
 <details open>
-  <summary>Click me</summary>
+  <summary style="font-size: 24px; font-weight: bold;">Aufsatz</summary>
 
 Der Aufsatz behandelt eine Frage zu einem Thema im Bereich «Verteilte Systeme». 
 Die Studierenden können ein Thema (siehe unten), in Absprache mit den anderen Gruppen, frei wählen.
@@ -43,10 +40,10 @@ Die Fragen müssen vorbereitet sein und sowohl Fragen als auch Antworten werden 
 
 </details>
 
-## Zeitplan
+
 
 <details open>
-  <summary>Click me</summary>
+  <summary style="font-size: 24px; font-weight: bold;">Zeitplan</summary>
 
 - Semesterwoche 4: Abgabe Analyse und Beschreibung des Problems
 - Semesterwoche 12: Abgabe Hintergrundinformationen und Recherche
@@ -57,10 +54,10 @@ Abgaben jeweils bis Sonntag-Abend als PDF per E-Mail an den Dozenten.
 
 </details>
 
-## Bewertung
+
 
 <details open>
-  <summary>Click me</summary>
+  <summary style="font-size: 24px; font-weight: bold;">Bewertung</summary>
 
 Aufsatz und Präsentation gemäss folgendem Bewertungsraster: 
 - Beschreibung des Problems (Gruppenbewertung): 10 Punkte
@@ -75,10 +72,9 @@ Note: Gesamtpunkte/90*5+1, gerundet auf 0.1.
 
 </details>
 
-## Themen
 
 <details open>
-  <summary>Click me</summary>
+  <summary style="font-size: 24px; font-weight: bold;">Themen</summary>
 
 ### Skalierbarkeit von Publish-Subscribe-Systemen
 Wie bei so vielen Hypes haben viele Leute begonnen, Publish-Subscribe-Systeme zu nutzen, ohne den Nutzen wirklich zu verstehen.
