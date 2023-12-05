@@ -1,21 +1,17 @@
 # Bewertete Übung «Parallele und verteilte Systeme»
 [<img src="https://cdn-icons-png.flaticon.com/512/93/93634.png" width="50"/>](../README.md)
 
-<details open>
-  <summary style="font-size: 24px; font-weight: bold;">Aufgabenstellung</summary>
+
+## Aufgabenstellung
 
 In Zweier- oder Dreiergruppen erarbeiten die Studierenden einen Aufsatz und eine Präsentation zu einem von mehreren gegebenen Themen.
 Ziel ist es, ein verteiltes System zu analysieren, Vor- und Nachteile zu evaluieren und die im Unterricht behandelten Themen anzuwenden.
 
-</details>
-
-<details open>
-  <summary style="font-size: 24px; font-weight: bold;">Aufsatz</summary>
+## Aufsatz
 
 Der Aufsatz behandelt eine Frage zu einem Thema im Bereich «Verteilte Systeme». 
 Die Studierenden können ein Thema (siehe unten), in Absprache mit den anderen Gruppen, frei wählen.
 Folgende Teile sollten vorkommen.
-
 
 ### Klare und detaillierte Beschreibung der Aufgabenstellung.
 Das bloße Stellen der Frage ist oft nicht ausreichend.
@@ -38,12 +34,7 @@ Das erarbeitete Thema wird der Klasse präsentiert.
 Nach der Präsentation stellt sich die präsentierende Gruppe Fragen vom Dozenten und von den anderen Studierenden. 
 Die Fragen müssen vorbereitet sein und sowohl Fragen als auch Antworten werden bewertet.
 
-</details>
-
-
-
-<details open>
-  <summary style="font-size: 24px; font-weight: bold;">Zeitplan</summary>
+## Zeitplan
 
 - Semesterwoche 4: Abgabe Analyse und Beschreibung des Problems
 - Semesterwoche 12: Abgabe Hintergrundinformationen und Recherche
@@ -52,12 +43,7 @@ Die Fragen müssen vorbereitet sein und sowohl Fragen als auch Antworten werden 
 
 Abgaben jeweils bis Sonntag-Abend als PDF per E-Mail an den Dozenten.
 
-</details>
-
-
-
-<details open>
-  <summary style="font-size: 24px; font-weight: bold;">Bewertung</summary>
+## Bewertung
 
 Aufsatz und Präsentation gemäss folgendem Bewertungsraster: 
 - Beschreibung des Problems (Gruppenbewertung): 10 Punkte
@@ -70,11 +56,7 @@ Umfang: ca 2500 Wörter.
 
 Note: Gesamtpunkte/90*5+1, gerundet auf 0.1.
 
-</details>
-
-
-<details open>
-  <summary style="font-size: 24px; font-weight: bold;">Themen</summary>
+## Themen
 
 ### Skalierbarkeit von Publish-Subscribe-Systemen
 Wie bei so vielen Hypes haben viele Leute begonnen, Publish-Subscribe-Systeme zu nutzen, ohne den Nutzen wirklich zu verstehen.
@@ -91,7 +73,6 @@ In jedem Fall müssen Sie REPS klarmachen, worauf sie sich einlassen.
 Um die Sache noch schlimmer zu machen, hat REPS beschlossen, dass es vorziehen würde, die Anonymität der Treffer zu gewährleisten, damit sie die bestehenden Cloud-basierte Dienste zu nutzen, ohne diesen Diensten vollständig vertrauen zu müssen.
 Wenn es die Zeit erlaubt, werden Sie auch zu dieser zusätzlichen Anforderung eine Empfehlung abgeben.
 
-</details>
 
 ```mermaid
 flowchart TD
