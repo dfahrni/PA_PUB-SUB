@@ -66,3 +66,27 @@ Sie fragen sich, ob ein einfacheres themenbasiertes oder kanalbasiertes Pub-Sub 
 In jedem Fall müssen Sie REPS klarmachen, worauf sie sich einlassen.
 Um die Sache noch schlimmer zu machen, hat REPS beschlossen, dass es vorziehen würde, die Anonymität der Treffer zu gewährleisten, damit sie die bestehenden Cloud-basierte Dienste zu nutzen, ohne diesen Diensten vollständig vertrauen zu müssen.
 Wenn es die Zeit erlaubt, werden Sie auch zu dieser zusätzlichen Anforderung eine Empfehlung abgeben.
+
+```mermaid
+flowchart TD
+    A[Bewertete Übung Parallele und verteilte Systeme] --> B[Aufgabenstellung]
+    B --> C[Aufsatz]
+    B --> D[Fragestellungen und Präsentationen]
+
+    C --> E[Klare und detaillierte Beschreibung der Aufgabenstellung]
+    C --> F[Hintergrundinformationen und Recherche]
+    C --> G[Situationsanalyse und Empfehlung]
+
+    D --> H[Präsentation des Themas]
+    D --> I[Vorbereitung auf Fragen]
+    D --> J[Bewertung der Fragen und Antworten]
+
+    E --> K[Themenanalyse im dritten Kapitel]
+    F --> L[Quellenbelegung und Zitierung]
+    G --> M[Entwicklung und Diskussion von Empfehlungen]
+
+    H --> N[Themenbeispiel: Skalierbarkeit von Publish-Subscribe-Systemen]
+    I --> O[Fragen von Dozenten und Studierenden]
+    J --> P[Bewertungskriterien für Fragen und Antworten]
+
+```
