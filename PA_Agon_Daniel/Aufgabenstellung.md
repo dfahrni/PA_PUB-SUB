@@ -5,9 +5,14 @@ In Zweier- oder Dreiergruppen erarbeiten die Studierenden einen Aufsatz und eine
 Ziel ist es, ein verteiltes System zu analysieren, Vor- und Nachteile zu evaluieren und die im Unterricht behandelten Themen anzuwenden.
 
 ## Aufsatz
+
+<details>
+  <summary>Click me</summary>
+
 Der Aufsatz behandelt eine Frage zu einem Thema im Bereich «Verteilte Systeme». 
 Die Studierenden können ein Thema (siehe unten), in Absprache mit den anderen Gruppen, frei wählen.
 Folgende Teile sollten vorkommen.
+
 
 ### Klare und detaillierte Beschreibung der Aufgabenstellung.
 Das bloße Stellen der Frage ist oft nicht ausreichend.
@@ -30,13 +35,21 @@ Das erarbeitete Thema wird der Klasse präsentiert.
 Nach der Präsentation stellt sich die präsentierende Gruppe Fragen vom Dozenten und von den anderen Studierenden. 
 Die Fragen müssen vorbereitet sein und sowohl Fragen als auch Antworten werden bewertet.
 
+</details>
+
 ## Zeitplan
+
+<details>
+  <summary>Click me</summary>
+
 - Semesterwoche 4: Abgabe Analyse und Beschreibung des Problems
 - Semesterwoche 12: Abgabe Hintergrundinformationen und Recherche
 - Semesterwoche 17: Abgabe Situationsanalyse und Empfehlung
 - Semesterwoche 19: Präsentationen und Fragen der anderen Gruppe beantworten 
 
 Abgaben jeweils bis Sonntag-Abend als PDF per E-Mail an den Dozenten.
+
+</details>
 
 ## Bewertung
 Aufsatz und Präsentation gemäss folgendem Bewertungsraster: 
