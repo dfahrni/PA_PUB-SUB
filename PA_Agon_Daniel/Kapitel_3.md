@@ -1,5 +1,5 @@
 # Situationsanalyse und Empfehlung
-
+[<img src="https://cdn-icons-png.flaticon.com/512/93/93634.png" width="50"/>](../README.md)
 ### Empfehlungen
 
 Basierend auf der umfassenden technischen Analyse des Publish-Subscribe-Systems von REPS, lassen sich mehrere Empfehlungen ableiten. Zunächst ist es entscheidend, das geeignetste Systemmodell auszuwählen. Abhängig von den spezifischen Bedürfnissen und der erwarteten Nutzerzahl von REPS könnte eine Kombination aus inhalts- und themenbasierten Systemen die beste Wahl darstellen. Diese Hybridlösung würde es ermöglichen, die Vorteile beider Systeme zu nutzen: die spezifische Anpassungsfähigkeit inhaltsbasierter Systeme und die Effizienz und Einfachheit themenbasierter Modelle.

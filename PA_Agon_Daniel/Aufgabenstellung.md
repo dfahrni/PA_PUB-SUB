@@ -1,5 +1,5 @@
 # Bewertete Übung «Parallele und verteilte Systeme»
-
+[<img src="https://cdn-icons-png.flaticon.com/512/93/93634.png" width="50"/>](../README.md)
 ## Aufgabenstellung
 In Zweier- oder Dreiergruppen erarbeiten die Studierenden einen Aufsatz und eine Präsentation zu einem von mehreren gegebenen Themen.
 Ziel ist es, ein verteiltes System zu analysieren, Vor- und Nachteile zu evaluieren und die im Unterricht behandelten Themen anzuwenden.
