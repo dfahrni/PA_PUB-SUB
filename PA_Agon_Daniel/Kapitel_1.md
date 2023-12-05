@@ -1,5 +1,3 @@
-# Kapitel 1
-
 # Analyse und Beschreibung des Problems: Publish-Subscribe-System für REPS
 
 
